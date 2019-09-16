@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Movie-app-/static/css/main.560c6e50.chunk.css",
+    "main.js": "/Movie-app-/static/js/main.bc599638.chunk.js",
+    "main.js.map": "/Movie-app-/static/js/main.bc599638.chunk.js.map",
+    "runtime~main.js": "/Movie-app-/static/js/runtime~main.f401f371.js",
+    "runtime~main.js.map": "/Movie-app-/static/js/runtime~main.f401f371.js.map",
+    "static/js/2.585d8b2b.chunk.js": "/Movie-app-/static/js/2.585d8b2b.chunk.js",
+    "static/js/2.585d8b2b.chunk.js.map": "/Movie-app-/static/js/2.585d8b2b.chunk.js.map",
+    "index.html": "/Movie-app-/index.html",
+    "precache-manifest.6e1a86d564e4fa5262cdba440af20186.js": "/Movie-app-/precache-manifest.6e1a86d564e4fa5262cdba440af20186.js",
+    "service-worker.js": "/Movie-app-/service-worker.js",
+    "static/css/main.560c6e50.chunk.css.map": "/Movie-app-/static/css/main.560c6e50.chunk.css.map",
+    "static/media/AQuitPlace.png": "/Movie-app-/static/media/AQuitPlace.8e06191e.png",
+    "static/media/BridBox.png": "/Movie-app-/static/media/BridBox.f7a9cddb.png",
+    "static/media/EscapeRom.jpg": "/Movie-app-/static/media/EscapeRom.8a4bec41.jpg",
+    "static/media/GameOfThrone.png": "/Movie-app-/static/media/GameOfThrone.aee17703.png",
+    "static/media/Plus.png": "/Movie-app-/static/media/Plus.1475a81f.png",
+    "static/media/ToyStory.jpg": "/Movie-app-/static/media/ToyStory.db9833bb.jpg"
+  }
+}
